@@ -1,0 +1,56 @@
+.one {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+@font-face {
+  font-family: "Homemade-apple";
+  src: url(../../assets/Fonts/homemade-apple/HomemadeApple.ttf);
+}
+
+@font-face {
+  font-family: "Farewell";
+  src: url(../../assets/Fonts/farewell/farewell.ttf);
+}
+
+@font-face {
+  font-family: "soul-gate";
+  src: url("../../assets/Fonts/soulgate-font/Soulgate-PKvXm.ttf");
+}
+
+@font-face {
+  font-family: "scriptina";
+  src: url("../../assets/Fonts/scriptina/SCRIPTIN.ttf");
+}
+
+@font-face {
+  font-family: "beth-ellen";
+  src: url("../../assets/Fonts/BethEllen-Regular.ttf");
+}
+@font-face {
+  font-family: "pecita";
+  src: url("../../assets/Fonts/pecita/Pecita.otf");
+}
+
+.two {
+  font-family: "Homemade-apple";
+}
+
+.three {
+  font-family: "Farewell";
+}
+
+.four {
+  font-family: "soul-gate";
+}
+
+.five {
+  font-family: "pecita";
+}
+
+.six {
+  font-family: "beth-ellen";
+}
+
+.seven {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
