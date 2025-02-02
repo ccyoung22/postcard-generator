@@ -37,3 +37,10 @@
   flex: 2.2;
   flex-direction: column;
 }
+
+button:focus,
+button:focus-visible,
+button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
